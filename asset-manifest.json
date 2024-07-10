@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/SimranBamania/Cloths_Detection.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/SimranBamania/Cloths_Detection.git/static/js/main.771c617b.chunk.js",
-    "main.js.map": "/SimranBamania/Cloths_Detection.git/static/js/main.771c617b.chunk.js.map",
-    "runtime-main.js": "/SimranBamania/Cloths_Detection.git/static/js/runtime-main.659fa1ac.js",
-    "runtime-main.js.map": "/SimranBamania/Cloths_Detection.git/static/js/runtime-main.659fa1ac.js.map",
-    "static/js/2.cc85592c.chunk.js": "/SimranBamania/Cloths_Detection.git/static/js/2.cc85592c.chunk.js",
-    "static/js/2.cc85592c.chunk.js.map": "/SimranBamania/Cloths_Detection.git/static/js/2.cc85592c.chunk.js.map",
-    "index.html": "/SimranBamania/Cloths_Detection.git/index.html",
-    "precache-manifest.3dc6b777ecb977006d74fbb76a920644.js": "/SimranBamania/Cloths_Detection.git/precache-manifest.3dc6b777ecb977006d74fbb76a920644.js",
-    "service-worker.js": "/SimranBamania/Cloths_Detection.git/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/SimranBamania/Cloths_Detection.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.cc85592c.chunk.js.LICENSE.txt": "/SimranBamania/Cloths_Detection.git/static/js/2.cc85592c.chunk.js.LICENSE.txt"
+    "main.css": "/Cloths_Detection/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Cloths_Detection/static/js/main.771c617b.chunk.js",
+    "main.js.map": "/Cloths_Detection/static/js/main.771c617b.chunk.js.map",
+    "runtime-main.js": "/Cloths_Detection/static/js/runtime-main.c9a90cc2.js",
+    "runtime-main.js.map": "/Cloths_Detection/static/js/runtime-main.c9a90cc2.js.map",
+    "static/js/2.cc85592c.chunk.js": "/Cloths_Detection/static/js/2.cc85592c.chunk.js",
+    "static/js/2.cc85592c.chunk.js.map": "/Cloths_Detection/static/js/2.cc85592c.chunk.js.map",
+    "index.html": "/Cloths_Detection/index.html",
+    "precache-manifest.3691b60b709c942ea450440055fe9f0c.js": "/Cloths_Detection/precache-manifest.3691b60b709c942ea450440055fe9f0c.js",
+    "service-worker.js": "/Cloths_Detection/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Cloths_Detection/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cc85592c.chunk.js.LICENSE.txt": "/Cloths_Detection/static/js/2.cc85592c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.659fa1ac.js",
+    "static/js/runtime-main.c9a90cc2.js",
     "static/js/2.cc85592c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
     "static/js/main.771c617b.chunk.js"
